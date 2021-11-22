@@ -545,4 +545,9 @@ header{width:100%; background: #fef100;}
     .real-footer .f-logo img{
         padding-top:30%;
     }
+    .shortcut img{
+        padding-top:10%;
+        width:90%;
+        height:45%;
+    }
 }
