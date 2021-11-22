@@ -471,16 +471,14 @@ header{width:100%; background: #fef100;}
 .per-content{
     width:100%;
     display:flex;
-    justify-content: space-between;
     background: lightgray;
 }
-.per-content .info{
+.info{
     display:flex;
     margin: 0 auto 0 0;
     padding: 0 0 0 10%;
 }
-.per-content .info a{
-    display:flex;
+.info a{
     padding: 10px 5px;
     font-size:0.8rem;
     /* width: 100%; border-right: #333 1px solid; */
@@ -517,7 +515,7 @@ header{width:100%; background: #fef100;}
     display: flex;
 }
 .shortcut img{
-    width:100%;
+    width:90%;
     height:70%;
 }
 @media all and (max-width:625px){
