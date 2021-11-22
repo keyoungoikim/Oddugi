@@ -505,6 +505,9 @@ header{width:100%; background: #fef100;}
 .real-footer .f-logo{
     width:20%;
 }
+.real-footer .f-logo img{
+    width:90%;
+}
 .real-footer .copyright{
     font-size: 0.7rem;;
     width:60%
@@ -538,5 +541,8 @@ header{width:100%; background: #fef100;}
     }
     .burger{
         display:block;
+    }
+    .real-footer .f-logo img{
+        padding-top:30%;
     }
 }
